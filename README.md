@@ -30,6 +30,7 @@ DeFi portfolio dashboards.
 | [DeFi Watch][defi-watch] | ![][eth] ![][p]                                                                            | None  | None | ?         | Yes               |
 | [Farm Army][farm-army]   | ![][bsc]                                                                                   | None  | None | ?         | No                |
 | [Step][step]             | ![][sol]                                                                                   | ?     | Yes  | ?         | ?                 |
+| [QuantumPools](https://quantumpools.io) | EVM + Solana | Concentrated liquidity | No | LP bookkeeping | Cover Value: fees vs IL vs original deposit |
 
 ## Wallets
 
